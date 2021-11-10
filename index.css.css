@@ -1,0 +1,90 @@
+body{
+  background: black;
+}
+.foto{
+    width: 320px;
+    height: 350px;
+    border-radius: 100px;
+}
+h1{
+    color: white;
+}
+.boxhobi{
+    margin-left: 1cm;
+}
+.myname{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color: white;
+    margin-top: 15mm;
+}
+.from{
+    position: relative;
+    bottom: 3mm; 
+    font-style: italic;
+}
+.email{
+    position: relative;
+    bottom: 5mm; 
+}
+.nomor{
+    position: relative;
+    bottom: 1.7cm;
+}
+em{
+    color:mediumblue;
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+strong{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.department{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1.2cm;
+}
+.lectur{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1.2cm;
+}
+ul{
+    color: white;
+}
+li{
+    color: white;
+    margin-left: 1.2cm;
+}
+.employ{
+    margin-left: 1cm;
+}
+.award{
+    margin-left: 1cm;
+}
+label{
+    color: white;
+}
+.submit{
+    border-radius: 50px;
+    width: 25mm;
+    color:mediumblue;
+    margin-left: 5.9cm;
+}
+.boxnama{
+   border-radius: 50px;
+}
+.boxemail{
+   border-radius: 50px;
+}
+.submit:hover{
+    background-color: maroon;
+}
+.div_input{
+    margin-left: 1cm;
+}
